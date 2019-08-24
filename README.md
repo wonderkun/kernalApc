@@ -22,3 +22,8 @@
 ### build 
 
 直接用vs2017打开，编译即可。需要修改一下 dll的路径。
+
+
+### Limitations 
+
+不支持 wow64 process. 
