@@ -138,4 +138,4 @@ VOID Unload(IN PDRIVER_OBJECT pDriverobject);
 
 NTSTATUS DriverEntry(PDRIVER_OBJECT pDriverObject, PUNICODE_STRING pRegPath);
 
-#define DLLPATH "C:\\Users\\WDKRemoteUser\\Desktop\\injectDll.dll"
+#define DLLPATH "C:\\Test\\injectDll.dll"
